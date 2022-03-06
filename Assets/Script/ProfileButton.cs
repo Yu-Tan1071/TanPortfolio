@@ -20,7 +20,7 @@ public class ProfileButton : MonoBehaviour
                Quaternion.identity
                );
         }      
-        scrollRect.verticalNormalizedPosition = 0.72f;
+        scrollRect.verticalNormalizedPosition = 0.71f;
     }
     
     
